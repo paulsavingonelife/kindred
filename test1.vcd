@@ -1,0 +1,70 @@
+$date today $end
+$timescale 1 ns $end
+$scope module kindred $end
+$scope module stage1 $end
+$var string 20 " inst $end
+$upscope $end
+$upscope $end
+$scope module kindren $end
+$var integer 2 ! clk $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+sx "
+$end
+#2
+b1 !
+#3
+b0 !
+#4
+b1 !
+#5
+b0 !
+#6
+b1 !
+#7
+b0 !
+#8
+b1 !
+#9
+b0 !
+#10
+b1 !
+#11
+b0 !
+#12
+b1 !
+#13
+b0 !
+#14
+b1 !
+#15
+b0 !
+#16
+b1 !
+#17
+b0 !
+#18
+b1 !
+#19
+b0 !
+#20
+b1 !
+#21
+b0 !
+#22
+b1 !
+#23
+b0 !
+#24
+b1 !
+#25
+b0 !
+#26
+b1 !
+#27
+b0 !
+#28
+b1 !
